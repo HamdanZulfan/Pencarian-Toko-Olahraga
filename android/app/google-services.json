@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839550253962",
+    "project_id": "sport-app-ce1d4",
+    "storage_bucket": "sport-app-ce1d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839550253962:android:eb02a6998f30d96ca0a673",
+        "android_client_info": {
+          "package_name": "com.hamdan.sport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839550253962-5dfcej8t1658tf0o3auht4ni7vcu28g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBQmJgu9pqZ2g6hkQLF9eNPWzlXYHhu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839550253962-5dfcej8t1658tf0o3auht4ni7vcu28g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
